@@ -1,3 +1,3 @@
 # Hey there! 👋
 
-Checkout what I do at **[thruvsol.io](https://thruvsol-io.vercel.app/)** 🚀
+Checkout what I do at **[thruvsol](https://thruvsol.vercel.app)** 🚀
